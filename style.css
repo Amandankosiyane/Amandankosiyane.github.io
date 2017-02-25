@@ -1,0 +1,94 @@
+html {
+     background-image: url(https://sncdn.com/db/id/817613/419255a.jpg); 
+    background-size: cover;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: lighter;
+    display: inline-block;
+   
+
+        
+   
+}
+p {
+   font-family: serif;
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 500;
+    
+    
+}
+body {
+    margin: 60px;
+    align-content: center;
+}
+
+table,th,tr,td{
+    align-content: center;
+    border-radius: 5px;
+    border-width: medium;
+    width: 50%;
+    background-color: gray;
+    border-color: gray;
+}
+#clocktower{
+  position: relative;
+    left: -1px;
+    float: right;
+    padding-right: 2em;
+      border-radius: 60px;
+    
+}
+#timeballtower{
+    position: relative;
+    right: 20px;
+     float: left;
+    border-radius: 60px;
+
+    
+    
+}
+#robindrydock {
+  position: relative;
+    left: -1px;
+    float: right;
+    padding-right: 2em;
+     border-radius: 60px;
+}
+#dubai{
+    position: relative;
+    
+    border-radius: 40px;
+}
+#details{
+    position: relative;
+    left:250px;
+    float: right;
+    border-radius: 50px;
+    bottom: 120px;
+
+}
+.container{
+    margin: 50px;
+    padding: 1em;
+        
+}
+
+ul{
+ font-weight: lighter;
+    font-size: 20px;
+     align-items: flex-end;
+    
+}
+hr{
+    clear: both;
+    visibility: hidden;
+}
+h5{
+    display: block;
+    font-weight: lighter;
+    font-size: 20px;
+}
