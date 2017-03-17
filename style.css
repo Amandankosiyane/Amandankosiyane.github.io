@@ -1,6 +1,7 @@
 html {
-    
+  background-image: url("loveDogs.jpg");
     background-size: cover;
+    background-attachment: fixed;
     border-radius: 60px;
     background-color:plum;
 }
@@ -9,11 +10,11 @@ h1 {
     font-size: 40px;
     font-weight: lighter;
     display: inline-block;
-    color: aquamarine
-   
+    color: black;
 
-        
-   
+
+
+
 }
 p {
    font-family: serif;
@@ -21,15 +22,15 @@ p {
     margin: auto;
     font-size: 20px;
     font-weight: 500;
-    
-    
+
+
 }
 body {
     margin: 70px;
     align-content: center;
 }
 
-table,th,tr,td{ 
+table,th,tr,td{
     border-radius: 5px;
     border-width: thick;
     width: 60%;
@@ -41,29 +42,29 @@ table,th,tr,td{
     left: -1px;
     float: right;
     padding-right: 2em;
-      border-radius: 60px;
-    
+      border-radius: 40px;
+
 }
 #timeballtower{
     position: relative;
     right: 20px;
      float: left;
-    border-radius: 60px;
+    border-radius: 40px;
 
-    
-    
+
+
 }
 #robindrydock {
   position: relative;
     left: -1px;
     float: right;
     padding-right: 2em;
-     border-radius: 60px;
+     border-radius: 40px;
 }
 #dubai{
     position: relative;
-    
-    border-radius: 40px;
+
+    border-radius: 30px;
 }
 #details{
     position: relative;
@@ -76,17 +77,16 @@ table,th,tr,td{
 .container{
     margin: 60px;
     padding: 1em;
-     background-image: url(http://2.bp.blogspot.com/_JyEqAjSxEn0/TDzgTsjhxII/AAAAAAAAB7A/Wj4pv8y9XsU/s1600/Edit_Water_Drops_0082.JPG);
     background-size: cover;
-    border-radius: 60px;
-        
+
+
 }
 
 ul{
  font-weight: lighter;
     font-size: 20px;
      align-items: flex-end;
-    
+
 }
 hr{
     clear: both;
